@@ -1,0 +1,73 @@
+
+
+.caracter {
+    text-align: center;
+    display: inline-block;
+    height: 90%;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #fff7f7;
+    border-radius: 5px;
+    width: 20%;
+    background-image: url(/dragonballcamilo/img/verde\ negro.jpg);
+    
+    
+}
+
+.logo{
+    margin: 2em;
+    padding: 1.5em;
+    
+}
+
+.caracter img {
+    width: 50%;
+    height: 300px; 
+    
+   
+}
+.menu{
+   
+    background-color: white;
+}
+body{
+    background-image: url(/dragonballcamilo/img/Apps-DB.webp);
+    text-align: center;
+   
+   
+}
+.modal{
+    background-image: url(/dragonballcamilo/img/Wallpapers-dragon-ball.jpg);
+    background-position: center; /* Centra la imagen */
+    background-attachment: fixed; /* Fija la imagen al fondo */
+  
+}
+
+.modal-content {
+    background-color: white;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 60%; 
+    max-width: 500px; 
+  }
+
+/* Estilo de las transformaciones */
+.transformation {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+  }
+  .transformation img {
+    width: 50%;
+    height: 50%;
+    margin-right: 10px;
+  }
+
+h2{
+    background-color: white;
+}
+p{
+    background-color: white;
+}
