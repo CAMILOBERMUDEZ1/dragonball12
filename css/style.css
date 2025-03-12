@@ -32,13 +32,13 @@
     background-color: white;
 }
 body{
-    background-image: url(/dragonballcamilo/img/Apps-DB.webp);
+    background-image: url(img/Apps-DB.webp);
     text-align: center;
    
    
 }
 .modal{
-    background-image: url(/dragonballcamilo/img/Wallpapers-dragon-ball.jpg);
+    background-image: url(/img/Wallpapers-dragon-ball.jpg);
     background-position: center; /* Centra la imagen */
     background-attachment: fixed; /* Fija la imagen al fondo */
   
